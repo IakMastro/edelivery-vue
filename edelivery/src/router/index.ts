@@ -4,7 +4,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "Products",
-    component: () => import('@/views/Menu.vue')
+    component: () => import("@/views/Menu.vue"),
   },
 ];
 

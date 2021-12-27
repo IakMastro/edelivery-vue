@@ -1,7 +1,7 @@
 interface Market {
-  name: string
-  image_source: string
-  distance: number
+  name: string;
+  image_source: string;
+  distance: number;
 }
 
-export default Market
+export default Market;

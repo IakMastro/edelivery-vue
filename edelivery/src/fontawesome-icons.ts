@@ -5,8 +5,8 @@ import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { faFlag } from "@fortawesome/free-solid-svg-icons";
 
 // Add icons here
-library.add(faPhone)
-library.add(faUser)
-library.add(faFlag)
+library.add(faPhone);
+library.add(faUser);
+library.add(faFlag);
 
-export default FontAwesomeIcon
+export default FontAwesomeIcon;
